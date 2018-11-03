@@ -1,0 +1,48 @@
+{
+
+"Businesses": {
+	"kudo" :{
+		"Id": "1",
+		"category": "  مطعم   ",
+		"restaurant_name": "  كودو   ",
+		"image": "https://i.imgur.com/92M1FRP.png",
+		"rateing_image": "https://i.postimg.cc/p5M4v7wN/0.png",
+		"description": "  مطعم كودو يعتبر أحد مطاعم الوجبات السريعة الناجحة في المملكة تقدم خيارات غذائية متنوعة يشتهر بدجاج الكودو بنوعيه اللحم و الدجاج  ",
+		"Contact_information": "0550927109",
+		"number_of_rates": "0",
+		"total_rates": "0",
+		"Reviews": {
+			
+		}
+	},
+
+	"herfy":{
+		"Id": "2",
+		"category": "  مطعم   ",
+		"restaurant_name": "  هرفي   ",
+		"image": "https://i.imgur.com/RDzU3uX.jpg",
+		"rateing_image": "https://i.postimg.cc/p5M4v7wN/0.png",
+		"description": " مطعم هرفي يعتبر من أقدم المطاعم في السعودية يشتهر بوجبة البيرجر ",
+		"Contact_information": "0550927109",
+		"number_of_rates": "0",
+		"total_rates": "0",
+		"Reviews": {
+			
+		}
+	},
+	"kudoo":{
+			"Id": "1",
+			"category": "  مطعم   ",
+			"restaurant_name": "  كودو   ",
+			"image": "https://i.imgur.com/92M1FRP.png",
+			"rateing_image": "https://i.postimg.cc/p5M4v7wN/0.png",
+			"description": "  مطعم كودو يعتبر أحد مطاعم الوجبات السريعة الناجحة في المملكة تقدم خيارات غذائية متنوعة يشتهر بدجاج الكودو بنوعيه اللحم و الدجاج  ",
+			"Contact_information": "0550927109",
+			"number_of_rates": "0",
+			"total_rates": "0",
+					"Reviews": {
+			
+		}
+		}
+}
+}
